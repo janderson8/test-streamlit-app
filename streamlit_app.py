@@ -3,3 +3,5 @@ import pandas as pd
 import numpy as np
 
 st.title('Snowflake Data Catalog')
+
+st.button('Pull Catalog')
